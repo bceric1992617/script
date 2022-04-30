@@ -1,0 +1,31 @@
+第一步
+安装python
+	pip install selenium
+	pip install openpyxl
+
+第二步
+安装chrome浏览器
+
+第三步
+根据浏览器版本，下载对应的浏览器驱动 http://chromedriver.storage.googleapis.com/index.html
+把浏览器驱动放到pyhon目录下
+
+
+
+提示：
+如果遇到验证码问题，手动验证一下，然后回到命令回车确认继续运行。
+查chrome版本 chrome://version 
+
+
+使用说明：
+1.请使用自带模板添加数据
+2.数据会自动保存在当前目录
+3.使用时请保持网络畅通和稳定（不要下载东西，不要看在线视频）
+4.建议不要超过100条数据
+
+
+
+
+
+
+
